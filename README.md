@@ -8,7 +8,7 @@
 
 📍 Lagos, Nigeria · 🟢 Open for freelance & contract work
 
-[![Website](https://img.shields.io/badge/WEBSITE-marvecodeit.dev-1f6feb?style=flat-square&logo=googlechrome&logoColor=white&labelColor=555555)](https://www.marvecodeit.dev)
+[![Website](https://img.shields.io/badge/WEBSITE-marvecodeit.dev-1f6feb?style=flat-square&logo=googlechrome&logoColor=white&labelColor=555555)](https://MARVECODEIT.DEV)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvelcodeit)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@marvecodeit.dev)
 
